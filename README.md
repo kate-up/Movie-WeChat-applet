@@ -1,1 +1,1 @@
-# 微信小程序
+# Create a WeChat applet
